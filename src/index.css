@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
 
+
 body{
     margin:0px;
     padding: 0px;
@@ -249,7 +250,7 @@ nav .menu-btn,
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(images/offer.png);
+    background-image: url(./images/offer.png);
     text-align: center;
 }
 
