@@ -1,4 +1,5 @@
 import React from 'react';
+import { About } from './Components/About';
 import { Feature } from './Components/Feature';
 import { Header } from './Components/Header';
 import { NavBar } from './Components/NavBar';
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Feature />
       <Offer />
+      <About />
     </div>
   );
 }
