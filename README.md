@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17182ec6-73e1-4b47-ae5c-fe74f417f07d/deploy-status)](https://gym-web-site-in-react.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
