@@ -95,6 +95,7 @@ nav ul li a{
     letter-spacing: 1px;
     border-radius: 3px;
     transition: 0.2s ease-in-out;
+    cursor: pointer;
 }
 nav ul li a:hover{
 	background-color: #FF1414;
@@ -253,7 +254,6 @@ nav .menu-btn,
     background-image: url(./images/offer.png);
     text-align: center;
 }
-
 .pr-heading{
     text-align: center;
 	font-family:'Lato';
@@ -262,6 +262,10 @@ nav .menu-btn,
     left: 50%;
 	top: 55%;
 	transform: translate(-50%,-55%);
+}
+.pr-heading h2{
+    font-size: 2rem;
+    color: #fff;
 }
 .pr-heading span{
     color: #FF1414;
@@ -396,6 +400,7 @@ nav .menu-btn,
     background: linear-gradient(90deg, #FF1414 20%,#f70000);
     color: #ffffff;
     text-transform: uppercase;
+    cursor: pointer;
 }
 @media(max-width:620px){
     #contact form{
